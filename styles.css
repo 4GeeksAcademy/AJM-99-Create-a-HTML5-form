@@ -1,0 +1,11 @@
+.form-check-input:checked[type=radio] {
+    --bs-form-check-bg-image: none !important;
+    background-color: RGB(108, 117, 125) !important;
+    border: 5px solid lightgrey !important;
+}
+#header {
+    background-color: lightgrey !important;
+}
+#footer {
+    background-color: lightgrey !important;
+}
